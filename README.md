@@ -13,7 +13,7 @@ I am currently a final-year Bachelor of Computer Science (Hons.) student with a 
 - **Software Development:** Object-Oriented Programming (OOP) · Problem Solving 
 
 ## Projects
-### [Automated Surgical Instrument Detection Using YOLO-Based Computer Vision](https://github.com/nurulezlyn/CSC649-Assignment-1-Nurul-Ezlyn-CS2305E)
+### [Automated Surgical Instrument Detection Using YOLO-Based Computer Vision]([https://github.com/nurulezlyn/CSC649-Assignment-1-Nurul-Ezlyn-CS2305E](https://github.com/nurulezlyn/nurulezlyn-CSC649-Assignment-1-Nurul-Ezlyn-CS2305E))
 A computer vision (YOLO) concept that counts surgical instruments on a tray and compares them with a checklist. Final Year Project concept, documentation stage.
 
 ## Contact
