@@ -3,13 +3,14 @@
 Final-year Computer Science student at UiTM (FSKM).
 
 ## About
-I am working on my Final Year Project which is detecting and counting surgical instruments on trays using YOLO object detection. I enjoy turning real problems into clear requirements and well-documented projects.
+I am currently a final-year Bachelor of Computer Science (Hons.) student with a strong interest in software development, technology, and problem-solving. I enjoy learning new technologies, developing practical solutions, and working on projects that enhance my technical skills and knowledge. This GitHub profile showcases my projects, skills, and learning journey in computer science.
 
 ## Skills
-- **Languages:** Python · Java · C++ · JavaScript · PHP · SQL
-- **Web:** HTML · CSS
-- **AI and computer vision:** YOLO (Ultralytics) · OpenCV
-- **Tools:** Git · GitHub · Markdown · VS Code
+- **Programming Languages:** Python · Java · C++ · JavaScript · PHP · SQL
+- **Web Development:** HTML · CSS · Frontend Development · Backend Development
+- **Database Management:** MySQL · SQL
+- **AI & Machine Learning:** YOLO · Object Detection · Computer Vision
+- **Software Development:** Object-Oriented Programming (OOP) · Problem Solving 
 
 ## Projects
 ### [Automated Surgical Instrument Detection Using YOLO-Based Computer Vision](https://github.com/nurulezlyn/CSC649-Assignment-1-Nurul-Ezlyn-CS2305E)
